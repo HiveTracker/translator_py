@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import sys
 
-DEBUG_PRINT = 0
+DEBUG_PRINT = 1
 
 ###############################################################################
 class Reception:
